@@ -649,3 +649,40 @@ overflow: hidden;
   transform: translateY(0%);
 }
 
+/**-----------SUBSCRIBE-------**/
+
+.subscribe-container {
+  margin-left: 80px;
+}
+
+.subscribe-button {
+ font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: var(--logo-color);
+  background: #4D5AE5;
+  border: 1px solid #e7e9fc;
+  font-weight: 500;
+  font-size: 16px;
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 24px;
+gap: 16px;
+background: #4D5AE5;
+color: #ffffff;
+
+
+}
+.subscribe-container {
+  position: relative;
+}
+.foot-send-icon {
+  position: absolute;
+  top: 10px;
+  right: 24px;
+  color: #2e2f42;
+}
