@@ -636,7 +636,7 @@ body {
 }
 
 .modal-field {
-  margin-bottom: 24px; 
+  margin-bottom: 16px;
 }
 
 .input-wrap {
@@ -705,12 +705,28 @@ body {
 .modal-textarea:focus {
   border-color: #4D5AE5;
 }
+.modal-checkbox {
+  margin-bottom: 24px;
+}
 
 .check-text {
   font-size: 12px;
   display: flex;
   align-items: center;
   position: relative;
+  line-height: 1.17; 
+  letter-spacing: 0.04em; 
+  color: var(--customers-color);
+}
+.check-label {
+  width: 16px;
+  height: 16px;
+  border: 1px solid #2e2f42;
+  border-radius: 2px;
+  display: inline-flex; 
+  align-items: center; 
+  justify-content: center;
+  fill: transparent;
 }
 
 /**----------------------hover-img-portfolio--------------------**/
