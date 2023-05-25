@@ -541,7 +541,6 @@ body {
   color: #ffffff;
 }
 
-
 .foot-soc-list {
   display: flex;
   gap: 16px;
@@ -564,11 +563,9 @@ body {
 .subscribe-form {
   display: flex;
   margin-left: -25px;
-
 }
 .subscribe-label {
   margin-right: 24px;
-
 }
 
 /* //-------------------MODAL-------------// */
@@ -745,7 +742,7 @@ body {
   letter-spacing: 0.04em;
 }
 .subscribe-button {
-  font-family: "Roboto",sans-serif;
+  font-family: "Roboto", sans-serif;
   display: flex;
   position: relative;
   margin-left: 16px;
@@ -769,5 +766,4 @@ body {
   margin-left: 16px;
   top: 10px;
   right: 24px;
-  
 }
