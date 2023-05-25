@@ -563,6 +563,7 @@ body {
 }
 .subscribe-form {
   display: flex;
+  margin-left: -25px;
 
 }
 .subscribe-label {
@@ -766,5 +767,7 @@ body {
 .subscribe-icon {
   position: absolute;
   margin-left: 16px;
+  top: 10px;
+  right: 24px;
   
 }
