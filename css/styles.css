@@ -541,8 +541,6 @@ body {
   color: #ffffff;
 }
 
-.foot-soc-icon {
-}
 
 .foot-soc-list {
   display: flex;
@@ -562,6 +560,14 @@ body {
 }
 .team-soc-link-foot:is(:hover, :focus) {
   background-color: #31d0aa;
+}
+.subscribe-form {
+  display: flex;
+
+}
+.subscribe-label {
+  margin-right: 24px;
+
 }
 
 /* //-------------------MODAL-------------// */
