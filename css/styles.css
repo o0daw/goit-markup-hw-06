@@ -812,7 +812,7 @@ body {
   letter-spacing: 0.04em;
   height: 40px;
   min-width: 165px;
-  /* justify-content: center; */
+  justify-content: center;
   align-items: center;
 }
 .subscribe-icon {
