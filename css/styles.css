@@ -726,7 +726,10 @@ body {
   align-items: center;
   justify-content: center;
   fill: transparent;
-  border: none;
+  opacity: 0;
+}
+.modal-privacy {
+  color: var(--logo-color);
 }
 .btn-modal-send {
   display: block;
