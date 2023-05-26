@@ -570,6 +570,9 @@ body {
 
 /* //-------------------MODAL-------------// */
 
+.modal {
+  padding: 72px 24px 24px 24px;
+}
 .backdrop {
   position: fixed;
   top: 0;
@@ -637,7 +640,7 @@ body {
 
 .modal-field {
   margin-bottom: 8px;
-  padding: 72px 24px 24px 24px;
+ 
 }
 .modal-field-textarea {
   margin-bottom: 16px;
