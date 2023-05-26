@@ -716,7 +716,8 @@ body {
 .input-check:checked + .check-text > .check-label {
   background-color: #404bbf;
   border: none;
-  fill: #ffffff;
+  fill: var(--body-background-color);
+  border-color: var(--second-link-color);
 }
 .visually-hidden {
   position: absolute;
