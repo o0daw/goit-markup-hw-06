@@ -636,7 +636,7 @@ body {
 }
 
 .modal-field {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .input-wrap {
@@ -726,7 +726,7 @@ body {
   align-items: center;
   justify-content: center;
   fill: transparent;
-  opacity: 0;
+  /* opacity: 0; */
 }
 .modal-privacy {
   color: var(--logo-color);
