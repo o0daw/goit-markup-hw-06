@@ -637,6 +637,10 @@ body {
 
 .modal-field {
   margin-bottom: 8px;
+  padding: 72px 24px 24px 24px;
+}
+.modal-field-textarea {
+  margin-bottom: 16px;
 }
 
 .input-wrap {
