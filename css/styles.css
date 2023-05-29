@@ -285,7 +285,7 @@ body {
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 
-/**--------------------HERO BTN------------------**/
+/**---------------------HERO BTN------------------**/
 
 .hero-button {
   font-family: "Roboto", sans-serif;
@@ -374,7 +374,8 @@ body {
   border-radius: 0px 0px 4px 4px;
 }
 
-/* ---------------SOC-Link------------ */
+/* ---------------SOC-Link---------------- */
+
 
 .team-soc-list {
   display: flex;
